@@ -1,9 +1,11 @@
 # astrohackweek_sentiment_tool
 ![badge-img](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)
 
-Hack showing how to use the GitHub API and the Google NLP API.
+Hack showing how to use the [GitHub API](https://developer.github.com/v3/) and the [Google NLP API](https://cloud.google.com/natural-language/).
 
-Documentation todo:
-- Link to GitHub API
-- Link to Google NLP API docs
-- Steps / link for creating credentials
+
+Documentation:
+- [GitHub PR API](https://developer.github.com/v3/pulls/)
+- [Google NLP API docs](
+https://googlecloudplatform.github.io/google-cloud-python/latest/language/usage.html#analyze-sentiment)
+- (Quickstart guide)[https://cloud.google.com/natural-language/docs/quickstart]
